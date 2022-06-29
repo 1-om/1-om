@@ -36,15 +36,11 @@ so we can code whatever we want,
 
 ---
 
-
 a [techlog](https://1-om.github.io/1-om) of rants,  
-  
 
 ---
 
-<!-- link to portfolio that is connected onchain & has text -->
-[a portfolio](https://1-om.github.io/portfolio) &  
-an app to [hire me]() or get my resume.
+an app to [hire me](https://1-om.github.io/workblocks) or get my resume.
 <!--
 <div><button ref=>hire me</button></div>
 -->
