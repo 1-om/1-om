@@ -2,7 +2,7 @@
 
 This is my alias:genie_man: for crypto-related work.
 
-### contracts be smart🤓
+### contracts be smart <sub>🤓</sub>
 
 > **Note** **Issa verifiable computation.**
 
