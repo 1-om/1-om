@@ -2,7 +2,7 @@
 
 This is my alias:genie_man: for crypto-related work.
 
-### contracts be smart
+### contracts be smart🤓
 
 > **Note** **Issa verifiable computation.**
 
@@ -15,14 +15,14 @@ Put it on the blockchain.:massage:
 #### 📚 about this
 
 Blockchain-based contracts are written in various **domain-specific-languages**\
-(the domain being verifiable computing, as stated above).
+(the _domain_ being verifiable computing, as stated above).
 
-I explore contracts on:
+Contract knowledge:
 
-- [4.5/5] _ethereum_(solidity)
-- [3/5] tezos(fi, LIGO, michelson)
-- [3/5] solana(rust, solidity/solang)
-- [2/5] bitcoin(script, simplicity/liquid, contractum/rgb, solidity/rootstock)
+- [4.5/5] _ethereum_ (solidity)
+- [3/5] bitcoin (script, simplicity/liquid, contractum/rgb, solidity/rootstock)
+- [3/5] solana( rust, solidity/solang)
+- [2/5] tezos (fi, LIGO, michelson)
 
 ### its "decentralized" 🕵️‍♂️
 
@@ -30,7 +30,7 @@ so we can code a [few unique use-cases](),
 
 #### what is possible?
 
-[a lot of crypto ideas](https://1-om.github.io/)  
+[a lot of crypto ideas](https://1-om.github.io/crypto-project-ideas)  
 & then,
 
 <!--#### some stuff for you
@@ -44,6 +44,6 @@ so we can code a [few unique use-cases](),
 
 ---
 
-a [techlog](https://1-om.github.io/1-om) of rants
+a [techlog](https://1-om.github.io/) of rants
 
 ---
