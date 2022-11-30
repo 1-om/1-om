@@ -44,6 +44,6 @@ so we can code a [few unique use-cases](https://1-om.github.io/blockchain-use-ca
 
 ---
 
-a [techlog](https://1-om.github.io/) of rants
+> **Warning** a [techlog](https://1-om.github.io/) of rants
 
 ---
