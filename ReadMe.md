@@ -4,8 +4,8 @@ This is my alias:genie_man: for crypto-related work.
 
 ### smart contracts
 
-> **Note**
-**Issa verifiable computation.**  
+> **Note** **Issa verifiable computation.**\
+
 Some code ran,\
 needs to be proven,\
 put it on the blockchain.:massage:
