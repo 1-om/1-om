@@ -26,11 +26,11 @@ Contract knowledge:
 
 ### its "decentralized" 🕵️‍♂️
 
-so we can code a [few unique use-cases](),
+so we can code a [few unique use-cases](https://1-om.github.io/blockchain-use-cases),
 
 #### what is possible?
 
-[a lot of crypto ideas](https://1-om.github.io/crypto-project-ideas)  
+[a lot of crypto ideas](https://github.com/1-om/crypto-project-ideas)  
 & then,
 
 <!--#### some stuff for you
