@@ -2,13 +2,13 @@
 
 This is my alias:genie_man: for crypto-related work.
 
-### smart contracts
+### contracts be smart
 
-> **Note** **Issa verifiable computation.**\
+> **Note** **Issa verifiable computation.**
 
 Some code ran,\
-needs to be proven,\
-put it on the blockchain.:massage:
+needs to be proven?\
+Put it on the blockchain.:massage:
 
 ```while(😴){💰++;}```
 
@@ -17,7 +17,7 @@ put it on the blockchain.:massage:
 Blockchain-based contracts are written in various **domain-specific-languages**\
 (the domain being verifiable computing, as stated above).
 
-I explore contracts on:\
+I explore contracts on:
 
 - [4.5/5] _ethereum_(solidity)
 - [3/5] tezos(fi, LIGO, michelson)
