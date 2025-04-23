@@ -1,6 +1,7 @@
 # 👋, Hi, I'm om
 
 This is my alias :genie_man: for crypto-related work.
+
 I'm a blockchain-focused developer.
 I’ve built smart contracts, Web3 integrations, and crypto-related tools.
 
