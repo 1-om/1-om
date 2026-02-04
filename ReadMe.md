@@ -49,7 +49,7 @@ Being onchain has a [few unique use-cases](https://1-om.github.io/blockchain-use
 
 ---
 
-> there's a [techlog](https://1-om.github.io/) of rants
+> there's a [techlog](https://1-om.github.io/) of rants.
 
 ---
 
