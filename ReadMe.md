@@ -1,14 +1,14 @@
 # 👋, Hi, I'm om
 
-Blockchain-focused developer.
-Specializing in smart contracts, web3 integrations, and crypto tools.
+Blockchain-focused developer.\
+Specializing in decentralised networks.\
+Experienced in smart contracts, web3 integrations, and crypto tools.\
 
-#### 🤓 Contracts Be Smart 
+#### Contracts Be Smart 
 
 > **Its verifiable computation.**
 
-Some code ran,\
-needs to be proven?\
+Need to prove some code ran?\
 Put it on the blockchain.💆‍♀️
 
 ```while(😴){💰++;}```
@@ -18,23 +18,24 @@ Put it on the blockchain.💆‍♀️
 Blockchain-based contracts are written in various **domain-specific-languages**
 
 Skills
-- [4.5/5] ethereum (solidity)
-- [3.5/5] bitcoin (script, simplicity/liquid, contractum/rgb, solidity/rootstock)
-- [4/5] solana( rust, solidity/solang)
-- [3/5] tezos (fi, LIGO, michelson)
+- [3.5/5]  *Bitcoin* (script, Simplicity/Liquid, contractum/RGB, Solidity/Rootstock)
+- [4.5/5]  *Ethereum* (Solidity)
+- [4/5]    *Solana* (Rust, Solidity/solang)
+- [3/5]    *Tezos* (fi, LIGO, Michelson)
 
 Backend:
-- [4.5/5] typescript frameworks & SDKs
-- [3/5] rust SDKs
-- [4.5/5] blockchain frameworks (hardhat, foundry, anchor)
+- [4.5/5]   _Typescript/Javascript_ frameworks & SDKs
+- [3.5/5]     _Rust_
+- [4/5] _C#/.Net_
+- [4.5/5]   Blockchain tools & frameworks (Hardhat, Foundry, Anchor)
 
-### its about "decentralization" 🕵️‍♂️
+#### Its about "decentralization"
 
-so we can code a [few unique use-cases](https://1-om.github.io/blockchain-use-cases),
+Being onchain has a [few unique use-cases](https://1-om.github.io/blockchain-use-cases),
 
-#### what is possible?
+#### What else is possible?
 
-[a lot of crypto ideas](https://github.com/1-om/crypto-project-ideas)  
+[A lot of crypto ideas](https://github.com/1-om/crypto-project-ideas)  
 & then,
 
 <!--#### some stuff for you
@@ -48,7 +49,7 @@ so we can code a [few unique use-cases](https://1-om.github.io/blockchain-use-ca
 
 ---
 
-> **Warning** a [techlog](https://1-om.github.io/) of rants
+> there's a [techlog](https://1-om.github.io/) of rants
 
 ---
 
