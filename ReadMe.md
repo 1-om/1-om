@@ -2,7 +2,7 @@
 
 Blockchain-focused developer.\
 Specializing in decentralised networks.\
-Experienced in smart contracts, web3 integrations, and crypto tools.\
+Experienced in smart contracts, web3 integrations, and crypto tools.
 
 #### Contracts Be Smart 
 
