@@ -15,7 +15,7 @@ Put it on the blockchain.💆‍♀️
 
 ---
 
-Blockchain-based contracts are written in various **domain-specific-languages**
+Blockchain-based contracts are written in various **domain-specific-languages**↓
 
 Skills
 - [3.5/5]  *Bitcoin* (script, Simplicity/Liquid, contractum/RGB, Solidity/Rootstock)
